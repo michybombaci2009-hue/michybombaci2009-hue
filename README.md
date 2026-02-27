@@ -1,4 +1,4 @@
-<img width="2000" height="500" alt="mail google" src="https://github.com/user-attachments/assets/e4c51139-343e-4559-836c-fc79832f8238" />
+<img width="2000" height="250" alt="mail google" src="https://github.com/user-attachments/assets/e4c51139-343e-4559-836c-fc79832f8238" />
 
 <P align="center">
 <img width="100" height="100" alt="mail google" src="https://github.com/user-attachments/assets/fe3717d8-5722-4735-95f5-93cf898a6fd7" />
